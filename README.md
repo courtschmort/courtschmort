@@ -1,4 +1,10 @@
-### Hi there 👋
+## _Now available for hire!_
+
+#### I'm an experienced UX/UI Designer & Front End Developer with a refined growth mindset 🧠&nbsp;.
+
+📍&nbsp;&nbsp;Portland, OR <br />
+🔗&nbsp;&nbsp;[courtneyschild.com](https://www.courtneyschild.com/) <br />
+🤳🏼&nbsp;&nbsp;[Instagram](https://www.instagram.com/courtschmort/)
 
 <!--
 **courtschmort/courtschmort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
