@@ -1,6 +1,6 @@
 ## _Now available for hire!_
 
-#### I'm an experienced UX/UI Designer turned Front End Developer with a refined growth mindset 🧠&nbsp;.
+#### I'm an experienced UX/UI Designer and Front End Developer with a refined growth mindset 🧠&nbsp;.
 
 📍&nbsp;&nbsp;Portland, OR <br />
 🔗&nbsp;&nbsp;[courtneyschild.com](https://www.courtneyschild.com/) <br />
