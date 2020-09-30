@@ -1,6 +1,5 @@
 #### I'm an experienced UX/UI Designer turned Front End Developer.
 
-📍&nbsp;&nbsp;Portland, OR <br />
 🔗&nbsp;&nbsp;[courtneyschild.com](https://www.courtneyschild.com/) <br />
 
 <!--
