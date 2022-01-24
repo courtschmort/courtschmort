@@ -1,4 +1,4 @@
-#### I'm an experienced UX/UI Designer turned Front End Developer.
+#### I'm an experienced UX/UI Designer turned Frontend Developer.
 
 🔗&nbsp;&nbsp;[courtneyschild.com](https://www.courtneyschild.com/) <br />
 
