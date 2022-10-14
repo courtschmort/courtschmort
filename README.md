@@ -1,7 +1,5 @@
 #### I'm an experienced UX/UI Designer turned Frontend Developer.
 
-🔗&nbsp;&nbsp;[courtneyschild.com](https://www.courtneyschild.com/) <br />
-
 <!--
 **courtschmort/courtschmort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
