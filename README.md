@@ -1,4 +1,4 @@
-#### I'm an experienced UX/UI Designer turned Frontend Developer.
+#### I'm an experienced UX/UI Designer turned Full Stack Developer.
 
 <!--
 **courtschmort/courtschmort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
